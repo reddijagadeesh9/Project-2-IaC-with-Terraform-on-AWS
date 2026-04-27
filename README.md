@@ -258,6 +258,9 @@ pre-commit run --all-files
 
 ### Step 10: GitHub Actions CI/CD
 
+<img width="1879" height="714" alt="Screenshot 2026-04-27 161446" src="https://github.com/user-attachments/assets/c894eafe-35ee-4471-b9ed-a86ee0a5e6c4" />
+
+
 <img width="1906" height="850" alt="Screenshot 2026-04-27 151758" src="https://github.com/user-attachments/assets/2c984765-804b-45cf-b46b-fcb41c618479" />
 
 
