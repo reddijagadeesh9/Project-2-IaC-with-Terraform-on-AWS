@@ -209,6 +209,9 @@ pre-commit run --all-files
 
 ### Step 10: GitHub Actions CI/CD
 
+<img width="1906" height="850" alt="Screenshot 2026-04-27 151758" src="https://github.com/user-attachments/assets/2c984765-804b-45cf-b46b-fcb41c618479" />
+
+
 Created workflow:
 
 ```yaml
