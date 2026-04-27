@@ -55,6 +55,8 @@ The infrastructure includes:
 ---
 
 ## Project Structure
+<img width="641" height="602" alt="Screenshot 2026-04-27 160724" src="https://github.com/user-attachments/assets/f1e64628-2eb1-405b-a25f-f6a759748920" />
+
 
 ```bash
 terraform-aws-infra/
@@ -119,6 +121,13 @@ Created:
 
 * S3 Bucket for state file
 * DynamoDB table for locking
+  <img width="1527" height="545" alt="Screenshot 2026-04-27 161006" src="https://github.com/user-attachments/assets/9bf6585c-c301-4b83-8f2f-2768b4d06b9d" />
+
+  <img width="1908" height="416" alt="Screenshot 2026-04-27 161115" src="https://github.com/user-attachments/assets/6ca448c4-f650-4ec3-bac6-2909c5f23f7b" />
+
+  <img width="785" height="417" alt="Screenshot 2026-04-27 160903" src="https://github.com/user-attachments/assets/838c7f17-d032-436f-8169-895e76f32b26" />
+
+
 
 backend.tf:
 
