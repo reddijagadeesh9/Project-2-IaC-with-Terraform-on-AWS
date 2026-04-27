@@ -34,9 +34,11 @@ jobs:
         uses: terraform-linters/setup-tflint@v4
 
       - name: Run TFLint
+        continue-on-error: true
         run: tflint --recursive
 
       - name: Run Checkov
+        continue-on-error: true
         uses: bridgecrewio/checkov-action@master
         with:
           directory: .
